@@ -1,5 +1,8 @@
-![counter](https://enz6d0zswhtx62x.m.pipedream.net)
+<div align="center">
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=sp0oOk&count_private=true&theme=shadow_blue)
+## 📊 GitHub Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sp0oOk&count_private=true&layout=compact&theme=shadow_blue&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sp0oOk&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sp0oOk&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&langs_count=8" />
+
+</div>
